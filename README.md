@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Engineering | Data Analytics | Business Analysis | Cloud Engineering | DevOps | Site Reliability Engineering (SRE) | Gen AI | LLMs**
 
-- 💬 Ask me about **SQL, DBT, Python, Snowflake, Power BI, Tableau, ETL, and Cloud Data Pipelines**
+- 💬 Ask me about **SQL, DBT, Python, Snowflake, Power BI, Tableau, ETL, Jenkins, Docker, Kubernetes, Stramlit, Gen AI, LLMs and Cloud Data Pipelines**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anup-b-pote/**
 
