@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced SQL Optimization, and Cloud Data Platforms (AWS, GCP, Azure)**
 
-- 👯 I’m looking to collaborate on **Data Engineering | Data Analytics | Business Analysis | Cloud Engineering | DevOps | Site Reliability Engineering (SRE)**
+- 👯 I’m looking to collaborate on **Data Engineering | Data Analytics | Business Analysis | Cloud Engineering | DevOps | Site Reliability Engineering (SRE) | Gen AI | LLMs**
 
 - 💬 Ask me about **SQL, DBT, Python, Snowflake, Power BI, Tableau, ETL, and Cloud Data Pipelines**
 
