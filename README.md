@@ -4,14 +4,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anup Balasaheb Pote</h1>
-<h3 align="center">Transforming data into insights with scalable cloud solutions</h3>
+<h1 align="center">Hi 👋, I am Anup Balasaheb Pote</h1>
+<h3 align="center">Transforming data into actionable insights through cloud, analytics, and Gen AI solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupbpote02&label=Profile%20views&color=0e75b6&style=flat" alt="anupbpote02" /> </p>
 
-- 🌱 I’m currently learning **Advanced SQL Optimization, and Cloud Data Platforms (AWS, GCP, Azure)**
+- 🌱 I am currently learning Advanced SQL Optimization, exploring Cloud Data Platforms (AWS, GCP, Azure), and building expertise in Analytics and Gen AI.**
 
-- 👯 I’m looking to collaborate on **Data Engineering | Data Analytics | Business Analysis | Cloud Engineering | DevOps | Site Reliability Engineering (SRE) | Gen AI | LLMs**
+- 👯 I am looking to collaborate on **Data Engineering | Data Analytics | Business Analysis | Cloud Engineering | DevOps | Site Reliability Engineering (SRE) | Gen AI | LLMs**
 
 - 💬 Ask me about **SQL, DBT, Python, Snowflake, Power BI, Tableau, ETL, Jenkins, Docker, Kubernetes, Stramlit, Gen AI, LLMs and Cloud Data Pipelines**
 
