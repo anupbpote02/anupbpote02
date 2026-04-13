@@ -13,7 +13,7 @@
 
 * 💡 I'm passionate about finding innovative solutions to data challenges and constantly improving my skills in this rapidly evolving field
 * 🌱 I'm currently building data and analytics-driven AI systems and applying cloud technologies, GenAI, and LLMs at production level
-* 🤝 I'm open to collaborating on **Data Engineering, Cloud Engineering, Analytics, and GenAI** roles
+* 🤝 I'm open to collaborating on **Data Engineering, Analytics, Cloud Engineering, and GenAI** roles
 * ⚡ Fun fact: **I analyze football and cricket strategies almost as much as I analyze data**
 
 
